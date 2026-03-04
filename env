@@ -1,0 +1,10 @@
+DATABASE_URL=postgresql://postgres:pass@localhost:5432/galactic_empire
+REDIS_URL=redis://localhost:6379
+JWT_SECRET=super-secret-change-in-production-1234567890abcdef
+PORT=4000
+NODE_ENV=development
+FRONTEND_URL=http://localhost:5173
+DB_SYNC=true
+DB_LOGGING=false
+TICK_INTERVAL_MS=10000
+ADMIN_KEY=dev-admin-key
